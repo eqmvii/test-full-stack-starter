@@ -1,0 +1,19 @@
+{
+  "name": "test-full-stack-starter",
+  "version": "1.0.0",
+  "description": "fafaafsfas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eqmvii/test-full-stack-starter.git"
+  },
+  "author": "eqmvii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eqmvii/test-full-stack-starter/issues"
+  },
+  "homepage": "https://github.com/eqmvii/test-full-stack-starter#readme"
+}
